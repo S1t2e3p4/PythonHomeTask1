@@ -13,4 +13,5 @@ if WeekDay >= 1 and WeekDay <= 7:
     else:
          print('НЕТ. Этот день недели не является выходным. Работаем!')
 else: 
-    print('ERROR! Ошибка!')
+    print('ERROR! ОШИБКА!')
+
