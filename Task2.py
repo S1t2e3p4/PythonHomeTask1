@@ -13,6 +13,7 @@ print(f'При вышезаданных значениях переменных,
 # \/ - OR, |, ИЛИ, логическое сложение, дизьюкция
 # ¬ - NOT, !,~, НЕ, отрицание, инверсия
 
+
 # X	     Y	     Z	  ¬(X⋁Y⋁Z) ¬X⋀¬Y⋀¬Z result
 # true	true	true	false	false	true
 # true	true	false	false	false	true
